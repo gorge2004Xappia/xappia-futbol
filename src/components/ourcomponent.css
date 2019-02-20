@@ -1,0 +1,14 @@
+div {
+    width: 80%;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
